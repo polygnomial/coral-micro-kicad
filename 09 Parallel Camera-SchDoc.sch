@@ -1,0 +1,556 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title "09 Parallel Camera-SchDoc"
+Date "31 01 2024"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Notes Line
+	15700 10700 15700 9800
+Wire Notes Line
+	15700 10700 22000 10700
+Wire Notes Line
+	15700 9800 22000 9800
+Wire Notes Line
+	22000 10700 22000 9800
+Wire Notes Line
+	15700 10150 15700 10200
+Wire Notes Line
+	18650 10150 15700 10150
+Wire Notes Line
+	18650 9800 18650 10150
+Wire Notes Line
+	15700 10350 15700 10300
+Wire Notes Line
+	18650 10350 15700 10350
+Wire Notes Line
+	18650 10000 18650 10350
+Wire Notes Line
+	18650 10500 18650 10350
+Wire Notes Line
+	15700 10500 18650 10500
+Wire Notes Line
+	20000 10700 20000 9800
+Text Notes 15800 10050 0    60   ~ 0
+Project:
+Wire Notes Line
+	17800 10500 17800 10150
+Text Notes 15800 10300 0    60   ~ 0
+Engineer:
+Text Notes 17850 10300 0    60   ~ 0
+Revision:
+Text Notes 15800 10500 0    60   ~ 0
+Date:
+Text Notes 17850 10500 0    60   ~ 0
+Sheet
+Text Notes 18300 10500 0    60   ~ 0
+of
+Text Notes 15800 10650 0    60   ~ 0
+File:
+Text Notes 18800 10250 0    60   ~ 0
+Google LLC
+Text Notes 18800 10350 0    60   ~ 0
+1600 Amphitheatre Parkway
+Text Notes 18800 10450 0    60   ~ 0
+Mountain View, CA 94043
+Text Notes 18250 10300 0    60   ~ 0
+=ProjectRevision
+Text Notes 18150 10500 0    60   ~ 0
+9
+Text Notes 16100 10500 0    60   ~ 0
+*
+Text Notes 16250 10300 0    60   ~ 0
+=ProjectEngineer
+Text Notes 18500 10500 0    60   ~ 0
+17
+Text Notes 16100 10650 0    60   ~ 0
+*
+Text Notes 17000 10050 0    72   ~ 0
+=Project
+Wire Notes Line
+	18650 10700 18650 10500
+Wire Notes Line
+	21000 10700 21000 9800
+Text Notes 9400 900 0    192   ~ 12
+Camera Module Connector
+Text GLabel 8100 1800 2 60 Output ~
+CSI_DATA08
+Text Label 8080 1800 0 70 ~
+6
+Text GLabel 8100 2000 2 60 Output ~
+CSI_DATA07
+Text Label 8080 2000 0 70 ~
+6
+Text GLabel 8100 2200 2 60 Output ~
+CSI_DATA06
+Text Label 8080 2200 0 70 ~
+6
+Text GLabel 8100 2400 2 60 Output ~
+CSI_DATA05
+Text Label 8080 2400 0 70 ~
+6
+Text GLabel 8100 2600 2 60 Output ~
+CSI_DATA04
+Text Label 8080 2600 0 70 ~
+6
+Text GLabel 8100 2800 2 60 Output ~
+CSI_DATA03
+Text Label 8080 2800 0 70 ~
+6
+Text GLabel 8100 3000 2 60 Output ~
+CSI_DATA02
+Text Label 8080 3000 0 70 ~
+6
+Text GLabel 8100 1600 2 60 Output ~
+CSI_DATA09
+Text Label 8080 1600 0 70 ~
+6
+Text GLabel 8100 3200 2 60 Output ~
+CSI_PIXCLK
+Text Label 8080 3200 0 70 ~
+6
+$Comp
+L power:+VDD_2V8_CAM #PWR?65BAC1BD
+U 1 1 65BAC1BD
+P 11900 1300
+F 0 "VDD_2V8_CAM_3" H 11900 1300 20  0000 C CNN
+F 1 "VDD_2V8_CAM" H 11900 1230 30  0000 C CNN
+F 2 "" H 11900 1300 70  0000 C CNN
+F 3 "" H 11900 1300 70  0000 C CNN
+	1    11900 1300
+	1    0    0    -1  
+$EndComp
+Text GLabel 12700 3000 2 60 BiDi ~
+I2C5_SDA_CAM
+Text Label 13620 3000 0 70 ~
+6
+Text GLabel 12700 2800 2 60 Input ~
+I2C5_SCL_CAM
+Text Label 13620 2800 0 70 ~
+6
+Text Notes 8000 1200 0    84   ~ 0
+NOTE: 8-Bit cameras must use DATA2-9 on RT1170
+Text Label 11600 3800 0 48 ~
+DVDD15
+Text Notes 11600 3700 0    48   ~ 0
+Internally Generated
+$Comp
+L power:+VDD_1V8_CAM #PWR?65BAC1BC
+U 1 1 65BAC1BC
+P 13000 3600
+F 0 "VDD_1V8_CAM_4" H 13000 3600 20  0000 C CNN
+F 1 "VDD_1V8_CAM" H 13000 3530 30  0000 C CNN
+F 2 "" H 13000 3600 70  0000 C CNN
+F 3 "" H 13000 3600 70  0000 C CNN
+	1    13000 3600
+	1    0    0    -1  
+$EndComp
+Text Notes 10000 5300 0    84   ~ 0
+Molex  5055502420 (receptacle on board)
+Text Notes 12200 5300 0    84   ~ 0
+30 cycles rated
+Text Notes 10000 5400 0    84   ~ 0
+Molex  5055512420 (plug on camera)
+Text Notes 12200 5400 0    84   ~ 0
+30 cycles rated
+Text Notes 10000 5200 0    108   ~ 0
+Connector Part Numbers
+$Comp
+L power:GND #PWR?65BAC1BB
+U 1 1 65BAC1BB
+P 12200 4400
+F 0 "GND_111" H 12200 4540 20  0000 C CNN
+F 1 "GND" H 12200 4510 30  0000 C CNN
+F 2 "" H 12200 4400 70  0000 C CNN
+F 3 "" H 12200 4400 70  0000 C CNN
+	1    12200 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?65BAC1BA
+U 1 1 65BAC1BA
+P 13000 4400
+F 0 "GND_112" H 13000 4540 20  0000 C CNN
+F 1 "GND" H 13000 4510 30  0000 C CNN
+F 2 "" H 13000 4400 70  0000 C CNN
+F 3 "" H 13000 4400 70  0000 C CNN
+	1    13000 4400
+	1    0    0    -1  
+$EndComp
+Text GLabel 12700 2200 2 60 Input ~
+CAMERA_TRIG
+Text Label 13620 2200 0 70 ~
+7
+Text GLabel 12700 2400 2 60 Output ~
+CSI_VSYNC
+Text Label 13620 2400 0 70 ~
+16, 6
+Text GLabel 12700 2600 2 60 Output ~
+CSI_HSYNC
+Text Label 13620 2600 0 70 ~
+6
+Text GLabel 8100 3600 2 60 Input ~
+CSI_MCLK
+Text Label 8080 3600 0 70 ~
+6
+Text Notes 13900 2250 0    48   ~ 0
+GPIO_EMC_B2_17
+Text Notes 7400 3250 0    48   ~ 0
+GPIO_AD_12
+Text Notes 7400 3650 0    48   ~ 0
+GPIO_AD_13
+Text Notes 13900 2450 0    48   ~ 0
+GPIO_AD_14
+Text Notes 13900 2650 0    48   ~ 0
+GPIO_AD_15
+Text Notes 7400 1650 0    48   ~ 0
+GPIO_AD_16
+Text Notes 7400 1850 0    48   ~ 0
+GPIO_AD_17
+Text Notes 7400 2050 0    48   ~ 0
+GPIO_AD_18
+Text Notes 7400 2250 0    48   ~ 0
+GPIO_AD_19
+Text Notes 7400 2450 0    48   ~ 0
+GPIO_AD_20
+Text Notes 7400 2650 0    48   ~ 0
+GPIO_AD_21
+Text Notes 7400 2850 0    48   ~ 0
+GPIO_AD_22
+Text Notes 7400 3050 0    48   ~ 0
+GPIO_AD_23
+Text Label 12570 1800 0 70 ~
+0402
+Text Label 12570 1720 0 70 ~
+10V
+Text Label 13070 4000 0 70 ~
+0402
+Text Label 13070 3920 0 70 ~
+10V
+Text Label 11870 4300 0 70 ~
+0402
+Text Label 11870 4220 0 70 ~
+10V
+$Comp
+L power:GND #PWR?65BAC1B9
+U 1 1 65BAC1B9
+P 12500 1700
+F 0 "GND_113" H 12500 1840 20  0000 C CNN
+F 1 "GND" H 12500 1810 30  0000 C CNN
+F 2 "" H 12500 1700 70  0000 C CNN
+F 3 "" H 12500 1700 70  0000 C CNN
+	1    12500 1700
+	1    0    0    -1  
+$EndComp
+Text Label 12260 4310 0 70 ~
+0201
+Text Label 12260 4220 0 70 ~
+25V
+Text Label 12760 4010 0 70 ~
+0201
+Text Label 12760 3920 0 70 ~
+25V
+Text Label 12160 1810 0 70 ~
+0201
+Text Label 12160 1720 0 70 ~
+25V
+$Comp
+L power:GND #PWR?65BAC1B8
+U 1 1 65BAC1B8
+P 12100 1700
+F 0 "GND_114" H 12100 1840 20  0000 C CNN
+F 1 "GND" H 12100 1810 30  0000 C CNN
+F 2 "" H 12100 1700 70  0000 C CNN
+F 3 "" H 12100 1700 70  0000 C CNN
+	1    12100 1700
+	1    0    0    -1  
+$EndComp
+Text Label 9300 3000 0 48 ~
+CSI_DATA02
+Text Label 9300 2800 0 48 ~
+CSI_DATA03
+Text Label 9300 2600 0 48 ~
+CSI_DATA04
+Text Label 9300 2400 0 48 ~
+CSI_DATA05
+Text Label 9300 2200 0 48 ~
+CSI_DATA06
+Text Label 9300 2000 0 48 ~
+CSI_DATA07
+Text Label 9300 1800 0 48 ~
+CSI_DATA08
+Text Label 9300 1600 0 48 ~
+CSI_DATA09
+Text Label 9300 3200 0 48 ~
+CSI_PIXCLK
+Text Label 11600 2600 0 48 ~
+CSI_HSYNC
+Text Label 11600 2400 0 48 ~
+CSI_VSYNC
+Text Label 11600 2200 0 48 ~
+CAMERA_TRIG
+$Comp
+L power:GND #PWR?65BAC1B7
+U 1 1 65BAC1B7
+P 10000 4400
+F 0 "GND_115" H 10000 4540 20  0000 C CNN
+F 1 "GND" H 10000 4510 30  0000 C CNN
+F 2 "" H 10000 4400 70  0000 C CNN
+F 3 "" H 10000 4400 70  0000 C CNN
+	1    10000 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?65BAC1B6
+U 1 1 65BAC1B6
+P 11500 4400
+F 0 "GND_116" H 11500 4540 20  0000 C CNN
+F 1 "GND" H 11500 4510 30  0000 C CNN
+F 2 "" H 11500 4400 70  0000 C CNN
+F 3 "" H 11500 4400 70  0000 C CNN
+	1    11500 4400
+	1    0    0    -1  
+$EndComp
+Text Label 9300 3600 0 48 ~
+CSI_MCLK
+Text Label 11600 2800 0 48 ~
+I2C5_SCL_CAM
+Text Label 11600 3000 0 48 ~
+I2C5_SDA_CAM
+Text Label 10300 4300 0 70 ~
+Parallel Cam
+Text Label 11600 3200 0 48 ~
+CAMERA_INT
+Text GLabel 12700 3200 2 60 BiDi ~
+CAMERA_INT
+Text Label 13620 3200 0 70 ~
+5, 8
+Text Notes 13900 3250 0    48   ~ 0
+GPIO_SNVS_05
+Text Notes 1000 -3400 0    348   ~ 12
+Coral Dev Board Micro: Camera Module
+Wire Wire Line
+	13000 4200 13000 3900
+Wire Wire Line
+	10100 3600 9200 3600
+Wire Wire Line
+	10100 3200 9200 3200
+Wire Wire Line
+	10100 3000 9200 3000
+Wire Wire Line
+	10100 2800 9200 2800
+Wire Wire Line
+	10100 2600 9200 2600
+Wire Wire Line
+	10100 2400 9200 2400
+Wire Wire Line
+	10100 2200 9200 2200
+Wire Wire Line
+	10100 2000 9200 2000
+Wire Wire Line
+	10100 1800 9200 1800
+Wire Wire Line
+	10100 1600 9200 1600
+Wire Wire Line
+	10000 4100 10100 4100
+Wire Wire Line
+	10000 4100 10000 4400
+Wire Wire Line
+	10000 4000 10000 4100
+Wire Wire Line
+	10100 4000 10000 4000
+Wire Wire Line
+	10000 3800 10000 4000
+Wire Wire Line
+	10100 3800 10000 3800
+Wire Wire Line
+	10000 3400 10000 3800
+Wire Wire Line
+	10100 3400 10000 3400
+Wire Wire Line
+	11500 4100 11400 4100
+Wire Wire Line
+	11500 4000 11500 4100
+Wire Wire Line
+	11500 3400 11500 4000
+Wire Wire Line
+	11400 3400 11500 3400
+Wire Wire Line
+	11500 4000 11400 4000
+Wire Wire Line
+	11800 3800 11400 3800
+Wire Wire Line
+	12200 3800 11800 3800
+Wire Wire Line
+	12700 3600 11400 3600
+Wire Wire Line
+	13000 3600 12700 3600
+Wire Wire Line
+	13000 3700 13000 3600
+Wire Wire Line
+	12700 3200 11400 3200
+Wire Wire Line
+	12700 3000 11400 3000
+Wire Wire Line
+	12700 2800 11400 2800
+Wire Wire Line
+	12700 2600 11400 2600
+Wire Wire Line
+	12700 2400 11400 2400
+Wire Wire Line
+	12700 2200 11400 2200
+Wire Wire Line
+	11500 2000 11400 2000
+Wire Wire Line
+	11900 1800 11400 1800
+Wire Wire Line
+	11900 1400 11900 1800
+Wire Wire Line
+	11900 1300 11900 1400
+Wire Wire Line
+	11500 1600 11400 1600
+Wire Wire Line
+	11500 2000 11500 1600
+Wire Wire Line
+	11500 3400 11500 2000
+Wire Wire Line
+	11800 4300 11800 4200
+Wire Wire Line
+	12200 4300 11800 4300
+Wire Wire Line
+	12200 4200 12200 4300
+Wire Wire Line
+	12100 1400 11900 1400
+Wire Wire Line
+	12500 1400 12100 1400
+Wire Wire Line
+	12500 1500 12500 1400
+Wire Wire Line
+	12700 4200 12700 3900
+Wire Wire Line
+	13000 4200 12700 4200
+Wire Wire Line
+	13000 4400 13000 4200
+Wire Wire Line
+	11500 4400 11500 4100
+Wire Wire Line
+	11800 4000 11800 3800
+Wire Wire Line
+	12100 1400 12100 1500
+Wire Wire Line
+	12200 4300 12200 4400
+Wire Wire Line
+	12200 3800 12200 4000
+Wire Wire Line
+	12700 3600 12700 3700
+Connection ~ 10000 4100
+Connection ~ 10000 4000
+Connection ~ 10000 3800
+Connection ~ 11500 4100
+Connection ~ 11500 4000
+Connection ~ 11500 3400
+Connection ~ 11500 2000
+Connection ~ 11800 3800
+Connection ~ 11900 1400
+Connection ~ 12100 1400
+Connection ~ 12200 4300
+Connection ~ 12700 3600
+Connection ~ 13000 4200
+Connection ~ 13000 3600
+$Comp
+L __Template_Cap C29
+U 1 1 65BAC1B5
+P 12500 1500
+F 0 "C29" H 12570 1480 60  0000 L BNN
+F 1 "10UF" H 12570 1380 60  0000 L BNN
+F 2 "" H 12570 1380 60  0000 C CNN
+F 3 "" H 12570 1380 60  0000 C CNN
+F 4 "0402" V 1400 2000 60  0001 C CNN "Package"
+F 5 "10V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    12500 1500
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C31
+U 1 1 65BAC1B4
+P 13000 3700
+F 0 "C31" H 13070 3680 60  0000 L BNN
+F 1 "10UF" H 13070 3580 60  0000 L BNN
+F 2 "" H 13070 3580 60  0000 C CNN
+F 3 "" H 13070 3580 60  0000 C CNN
+F 4 "0402" V 1400 2000 60  0001 C CNN "Package"
+F 5 "10V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    13000 3700
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C35
+U 1 1 65BAC1B3
+P 11800 4000
+F 0 "C35" H 11870 3980 60  0000 L BNN
+F 1 "10UF" H 11870 3880 60  0000 L BNN
+F 2 "" H 11870 3880 60  0000 C CNN
+F 3 "" H 11870 3880 60  0000 C CNN
+F 4 "0402" V 1400 2000 60  0001 C CNN "Package"
+F 5 "10V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    11800 4000
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C80
+U 1 1 65BAC1B2
+P 12200 4000
+F 0 "C80" H 12260 3980 60  0000 L BNN
+F 1 "0.1uF" H 12260 3880 60  0000 L BNN
+F 2 "" H 12260 3880 60  0000 C CNN
+F 3 "" H 12260 3880 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+F 5 "25V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    12200 4000
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C79
+U 1 1 65BAC1B1
+P 12700 3700
+F 0 "C79" H 12760 3680 60  0000 L BNN
+F 1 "0.1uF" H 12760 3580 60  0000 L BNN
+F 2 "" H 12760 3580 60  0000 C CNN
+F 3 "" H 12760 3580 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+F 5 "25V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    12700 3700
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C27
+U 1 1 65BAC1B0
+P 12100 1500
+F 0 "C27" H 12160 1480 60  0000 L BNN
+F 1 "0.1uF" H 12160 1380 60  0000 L BNN
+F 2 "" H 12160 1380 60  0000 C CNN
+F 3 "" H 12160 1380 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+F 5 "25V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    12100 1500
+	1    0    0    -1
+$EndComp
+$Comp
+L 1087 J7
+U 1 1 65BAC1AF
+P 10300 1500
+F 0 "J7" H 10300 1500 60  0000 L BNN
+F 4 "Parallel Cam" V 1400 2000 60  0001 C CNN "MFG P/N"
+F 5 "5, 8" V 1400 2000 60  0001 C CNN "CrossRef"
+	1    10300 1500
+	1    0    0    -1
+$EndComp
+$EndSCHEMATC

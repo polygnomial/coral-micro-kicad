@@ -1,0 +1,597 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 1 1
+Title "13 USB-SchDoc"
+Date "31 01 2024"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Notes Line
+	15700 10700 15700 9800
+Wire Notes Line
+	15700 10700 22000 10700
+Wire Notes Line
+	15700 9800 22000 9800
+Wire Notes Line
+	22000 10700 22000 9800
+Wire Notes Line
+	15700 10150 15700 10200
+Wire Notes Line
+	18650 10150 15700 10150
+Wire Notes Line
+	18650 9800 18650 10150
+Wire Notes Line
+	15700 10350 15700 10300
+Wire Notes Line
+	18650 10350 15700 10350
+Wire Notes Line
+	18650 10000 18650 10350
+Wire Notes Line
+	18650 10500 18650 10350
+Wire Notes Line
+	15700 10500 18650 10500
+Wire Notes Line
+	20000 10700 20000 9800
+Text Notes 15800 10050 0    60   ~ 0
+Project:
+Wire Notes Line
+	17800 10500 17800 10150
+Text Notes 15800 10300 0    60   ~ 0
+Engineer:
+Text Notes 17850 10300 0    60   ~ 0
+Revision:
+Text Notes 15800 10500 0    60   ~ 0
+Date:
+Text Notes 17850 10500 0    60   ~ 0
+Sheet
+Text Notes 18300 10500 0    60   ~ 0
+of
+Text Notes 15800 10650 0    60   ~ 0
+File:
+Text Notes 18800 10250 0    60   ~ 0
+Google LLC
+Text Notes 18800 10350 0    60   ~ 0
+1600 Amphitheatre Parkway
+Text Notes 18800 10450 0    60   ~ 0
+Mountain View, CA 94043
+Text Notes 18250 10300 0    60   ~ 0
+=ProjectRevision
+Text Notes 18150 10500 0    60   ~ 0
+13
+Text Notes 16100 10500 0    60   ~ 0
+*
+Text Notes 16250 10300 0    60   ~ 0
+=ProjectEngineer
+Text Notes 18500 10500 0    60   ~ 0
+17
+Text Notes 16100 10650 0    60   ~ 0
+*
+Text Notes 17000 10050 0    72   ~ 0
+=Project
+Wire Notes Line
+	18650 10700 18650 10500
+Wire Notes Line
+	21000 10700 21000 9800
+$Comp
+L power:GND #PWR?65BAC17E
+U 1 1 65BAC17E
+P 6300 3700
+F 0 "GND_126" H 6300 3840 20  0000 C CNN
+F 1 "GND" H 6300 3810 30  0000 C CNN
+F 2 "" H 6300 3700 70  0000 C CNN
+F 3 "" H 6300 3700 70  0000 C CNN
+	1    6300 3700
+	1    0    0    -1  
+$EndComp
+Text Notes 6600 2100 0    42   ~ 12
+90ohm differential pairs
+Text Label 13300 4760 0 60 ~
+Host --> ID = GND  Device --> ID = Floating
+Text Label 17420 2100 0 70 ~
+PTN5150AHXMP
+Text Notes 17400 2850 0    60   ~ 0
+Integrated ESD protection for CC pins
+$Comp
+L power:GND #PWR?65BAC17D
+U 1 1 65BAC17D
+P 16800 4000
+F 0 "GND_127" H 16800 4140 20  0000 C CNN
+F 1 "GND" H 16800 4110 30  0000 C CNN
+F 2 "" H 16800 4000 70  0000 C CNN
+F 3 "" H 16800 4000 70  0000 C CNN
+	1    16800 4000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 15800 3600
+Text Label 17900 2600 0 48 ~
+USB_CC1
+Text Label 17900 3000 0 48 ~
+USB_CC2
+Text Label 3050 2710 0 70 ~
+0201
+Text Label 3060 2620 0 70 ~
+6.3V
+Text GLabel 8700 2500 2 60 BiDi ~
+OTG1_D_P
+Text Label 9420 2500 0 70 ~
+7
+Text GLabel 8700 2300 2 60 BiDi ~
+OTG1_D_N
+Text Label 9420 2300 0 70 ~
+7
+Wire Notes Line
+	6930 2630 6944 2627
+Wire Notes Line
+	6944 2627 6957 2620
+Wire Notes Line
+	6957 2620 6970 2608
+Wire Notes Line
+	6970 2608 6982 2591
+Wire Notes Line
+	6982 2591 6993 2571
+Wire Notes Line
+	6993 2571 7002 2547
+Wire Notes Line
+	7002 2547 7010 2520
+Wire Notes Line
+	7010 2520 7015 2491
+Wire Notes Line
+	7015 2491 7018 2461
+Wire Notes Line
+	7018 2461 7020 2429
+Wire Notes Line
+	7020 2429 7018 2398
+Wire Notes Line
+	7018 2398 7015 2368
+Wire Notes Line
+	7015 2368 7010 2339
+Wire Notes Line
+	7010 2339 7002 2312
+Wire Notes Line
+	7002 2312 6993 2288
+Wire Notes Line
+	6993 2288 6982 2268
+Wire Notes Line
+	6982 2268 6970 2251
+Wire Notes Line
+	6970 2251 6957 2239
+Wire Notes Line
+	6957 2239 6944 2232
+Wire Notes Line
+	6944 2232 6929 2230
+Wire Notes Line
+	6929 2230 6915 2232
+Wire Notes Line
+	6915 2232 6902 2239
+Wire Notes Line
+	6902 2239 6889 2251
+Wire Notes Line
+	6889 2251 6877 2268
+Wire Notes Line
+	6877 2268 6866 2288
+Wire Notes Line
+	6866 2288 6857 2312
+Wire Notes Line
+	6857 2312 6849 2339
+Wire Notes Line
+	6849 2339 6844 2368
+Wire Notes Line
+	6844 2368 6841 2398
+Wire Notes Line
+	6841 2398 6840 2430
+Wire Notes Line
+	6840 2430 6841 2461
+Wire Notes Line
+	6841 2461 6844 2491
+Wire Notes Line
+	6844 2491 6849 2520
+Wire Notes Line
+	6849 2520 6857 2547
+Wire Notes Line
+	6857 2547 6866 2571
+Wire Notes Line
+	6866 2571 6877 2591
+Wire Notes Line
+	6877 2591 6889 2608
+Wire Notes Line
+	6889 2608 6902 2620
+Wire Notes Line
+	6902 2620 6915 2627
+Wire Notes Line
+	6915 2627 6930 2630
+Text Notes 15100 1000 0    192   ~ 12
+USB CC Controller
+Text Notes 3500 1000 0    192   ~ 12
+USB-C 2.0 Connector
+Text GLabel 10700 2400 2 60 Output ~
+USB_OTG1_ID
+Text Label 10680 2400 0 70 ~
+6
+Text Notes 10150 2450 0    60   ~ 0
+GPIO_AD_09
+Text Label 16460 1810 0 70 ~
+0201
+Text Label 16460 1720 0 70 ~
+25V
+$Comp
+L power:GND #PWR?65BAC17C
+U 1 1 65BAC17C
+P 16400 1700
+F 0 "GND_128" H 16400 1840 20  0000 C CNN
+F 1 "GND" H 16400 1810 30  0000 C CNN
+F 2 "" H 16400 1700 70  0000 C CNN
+F 3 "" H 16400 1700 70  0000 C CNN
+	1    16400 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VUSB #PWR?65BAC17B
+U 1 1 65BAC17B
+P 16800 1400
+F 0 "VUSB_3" H 16800 1400 20  0000 C CNN
+F 1 "VUSB" H 16800 1330 30  0000 C CNN
+F 2 "" H 16800 1400 70  0000 C CNN
+F 3 "" H 16800 1400 70  0000 C CNN
+	1    16800 1400
+	1    0    0    -1  
+$EndComp
+NoConn ~ 15800 2800
+Text GLabel 10700 3500 2 60 Input ~
+USB_PORT_RT
+Text Label 10680 3500 0 70 ~
+6
+Text Notes 10150 3550 0    60   ~ 0
+GPIO_AD_08
+$Comp
+L power:VUSB #PWR?65BAC17A
+U 1 1 65BAC17A
+P 3000 2100
+F 0 "VUSB_4" H 3000 2100 20  0000 C CNN
+F 1 "VUSB" H 3000 2030 30  0000 C CNN
+F 2 "" H 3000 2100 70  0000 C CNN
+F 3 "" H 3000 2100 70  0000 C CNN
+	1    3000 2100
+	1    0    0    -1  
+$EndComp
+Text Label 5600 2500 0 48 ~
+USB_DP_CON
+Text Label 5600 2300 0 48 ~
+USB_DN_CON
+Text Label 11900 2400 0 48 ~
+USB_OTG1_ID
+Text Label 15100 2600 0 48 ~
+CON_DET
+Text Label 11300 4800 0 60 ~
+PORT (PTN5150A)  -LOW is UFP  -HIGH is DFP  *DEFAULT: PD for UFP operation    DFP mode is not implemented
+Text Notes 12300 2200 0    72   ~ 0
+ID: Requires PU from MCU
+Text Label 11800 3500 0 48 ~
+USB_PORT_RT
+Text Label 15100 3000 0 48 ~
+USB_PORT
+$Comp
+L power:GND #PWR?65BAC179
+U 1 1 65BAC179
+P 4300 3850
+F 0 "GND_129" H 4300 3990 20  0000 C CNN
+F 1 "GND" H 4300 3960 30  0000 C CNN
+F 2 "" H 4300 3850 70  0000 C CNN
+F 3 "" H 4300 3850 70  0000 C CNN
+	1    4300 3850
+	1    0    0    -1  
+$EndComp
+Text Label 3600 2700 0 48 ~
+USB_DP_CON
+Text Label 3600 2900 0 48 ~
+USB_DP_CON
+Text Label 3600 2800 0 48 ~
+USB_DN_CON
+Text Label 3600 3000 0 48 ~
+USB_DN_CON
+NoConn ~ 4400 3100
+NoConn ~ 4400 3200
+$Comp
+L power:GND #PWR?65BAC178
+U 1 1 65BAC178
+P 3000 2600
+F 0 "GND_130" H 3000 2740 20  0000 C CNN
+F 1 "GND" H 3000 2710 30  0000 C CNN
+F 2 "" H 3000 2600 70  0000 C CNN
+F 3 "" H 3000 2600 70  0000 C CNN
+	1    3000 2600
+	1    0    0    -1  
+$EndComp
+Text Label 8100 2300 0 48 ~
+OTG1_D_N
+Text Label 8100 2500 0 48 ~
+OTG1_D_P
+Text Label 4000 2600 0 48 ~
+USB_CC2
+Text Label 4000 2500 0 48 ~
+USB_CC1
+Text Label 12530 3920 0 70 ~
+0201
+$Comp
+L power:GND #PWR?65BAC177
+U 1 1 65BAC177
+P 12500 4000
+F 0 "GND_131" H 12500 4140 20  0000 C CNN
+F 1 "GND" H 12500 4110 30  0000 C CNN
+F 2 "" H 12500 4000 70  0000 C CNN
+F 3 "" H 12500 4000 70  0000 C CNN
+	1    12500 4000
+	1    0    0    -1  
+$EndComp
+Text Label 11300 5600 0 60 ~
+Additional Clarification  - UFP: Upward facing port for USBC. This is sumilar to DEVICE for USB OTG  - DFP: Downward facing port for USBC. Similar to HOST for USB OTG
+$Comp
+L power:GND #PWR?65BAC176
+U 1 1 65BAC176
+P 13500 4000
+F 0 "GND_132" H 13500 4140 20  0000 C CNN
+F 1 "GND" H 13500 4110 30  0000 C CNN
+F 2 "" H 13500 4000 70  0000 C CNN
+F 3 "" H 13500 4000 70  0000 C CNN
+	1    13500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VUSB #PWR?65BAC175
+U 1 1 65BAC175
+P 13600 2900
+F 0 "VUSB_5" H 13600 2900 20  0000 C CNN
+F 1 "VUSB" H 13600 2830 30  0000 C CNN
+F 2 "" H 13600 2900 70  0000 C CNN
+F 3 "" H 13600 2900 70  0000 C CNN
+	1    13600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+VDD_1V8 #PWR?65BAC174
+U 1 1 65BAC174
+P 13200 2900
+F 0 "VDD_1V8_25" H 13200 2900 20  0000 C CNN
+F 1 "VDD_1V8" H 13200 2830 30  0000 C CNN
+F 2 "" H 13200 2900 70  0000 C CNN
+F 3 "" H 13200 2900 70  0000 C CNN
+	1    13200 2900
+	1    0    0    -1  
+$EndComp
+Text Label 14020 3200 0 70 ~
+74AXP1T34GMH
+NoConn ~ 14000 3700
+Text Label 4600 3900 0 70 ~
+698B116W26A-661
+Wire Wire Line
+	12500 3500 12500 3700
+Wire Wire Line
+	3000 2300 3000 2100
+Wire Wire Line
+	3700 2300 3000 2300
+Wire Wire Line
+	4300 2300 3700 2300
+Wire Wire Line
+	4300 2400 4300 2300
+Wire Wire Line
+	4400 2400 4300 2400
+Wire Wire Line
+	3500 3000 4400 3000
+Wire Wire Line
+	3500 2900 4400 2900
+Wire Wire Line
+	3500 2800 4400 2800
+Wire Wire Line
+	3500 2700 4400 2700
+Wire Wire Line
+	4400 2600 3900 2600
+Wire Wire Line
+	4400 2500 3900 2500
+Wire Wire Line
+	4400 3700 4300 3700
+Wire Wire Line
+	4300 3700 4300 3850
+Wire Wire Line
+	4300 3600 4300 3700
+Wire Wire Line
+	4400 3600 4300 3600
+Wire Wire Line
+	4300 3400 4400 3400
+Wire Wire Line
+	4300 3400 4300 3600
+Wire Wire Line
+	4300 3300 4300 3400
+Wire Wire Line
+	4400 3300 4300 3300
+Wire Wire Line
+	4400 2300 4300 2300
+Wire Wire Line
+	6300 2500 7300 2500
+Wire Wire Line
+	5500 2500 6300 2500
+Wire Wire Line
+	6600 2300 6600 2600
+Wire Wire Line
+	5500 2300 6600 2300
+Wire Wire Line
+	6300 3500 6300 3700
+Wire Wire Line
+	6600 3500 6300 3500
+Wire Wire Line
+	6600 3200 6600 3500
+Wire Wire Line
+	7300 2300 6600 2300
+Wire Wire Line
+	8700 2500 7900 2500
+Wire Wire Line
+	8700 2300 7900 2300
+Wire Wire Line
+	12500 3500 11800 3500
+Wire Wire Line
+	13000 3500 12500 3500
+Wire Wire Line
+	15800 2400 11800 2400
+Wire Wire Line
+	13400 2900 13200 2900
+Wire Wire Line
+	14800 3500 14000 3500
+Wire Wire Line
+	14800 3000 14800 3500
+Wire Wire Line
+	15800 3000 14800 3000
+Wire Wire Line
+	15100 2600 15800 2600
+Wire Wire Line
+	15400 2200 15800 2200
+Wire Wire Line
+	15400 1400 15400 2200
+Wire Wire Line
+	16400 1400 15400 1400
+Wire Wire Line
+	16800 1400 16400 1400
+Wire Wire Line
+	16800 1800 16800 1400
+Wire Wire Line
+	18400 3000 17400 3000
+Wire Wire Line
+	18400 2600 17400 2600
+Wire Wire Line
+	3000 2400 3000 2300
+Wire Wire Line
+	6300 3500 6300 3200
+Wire Wire Line
+	6300 2500 6300 2600
+Wire Wire Line
+	12500 3900 12500 4000
+Wire Wire Line
+	16400 1400 16400 1500
+Text Notes 1000 -3400 0    348   ~ 12
+Coral Dev Board Micro: USB
+Connection ~ 3000 2300
+Connection ~ 3700 2300
+Connection ~ 4300 3700
+Connection ~ 4300 3600
+Connection ~ 4300 3400
+Connection ~ 4300 2300
+Connection ~ 6300 3500
+Connection ~ 6300 2500
+Connection ~ 6600 2300
+Connection ~ 12500 3500
+Connection ~ 16400 1400
+Connection ~ 16800 1400
+$Comp
+L CONTROLLER_PTN5150AHXMP U20
+U 1 1 65BAC173
+P 16000 2000
+F 0 "U20" H 17420 2000 60  0000 L BNN
+F 4 "PTN5150AHXMP" V 1400 2000 60  0001 C CNN "MFG P/N"
+	1    16000 2000
+	1    0    0    -1
+$EndComp
+$Comp
+L TRANSLATOR_74AXP1T34GMH U4
+U 1 1 65BAC172
+P 13200 3100
+F 0 "U4" H 14020 3100 60  0000 L BNN
+F 4 "74AXP1T34GMH" V 1400 2000 60  0001 C CNN "MFG P/N"
+	1    13200 3100
+	1    0    0    -1
+$EndComp
+$Comp
+L CONN_EDAC_690-W16-290T131 J8
+U 1 1 65BAC171
+P 4600 2200
+F 0 "J8" H 4600 2200 60  0000 L BNN
+F 4 "698B116W26A-661" V 1400 2000 60  0001 C CNN "MFG P/N"
+	1    4600 2200
+	1    0    0    -1
+$EndComp
+$Comp
+L IND_CMC_DLW21 IC313
+U 1 1 65BAC170
+P 7400 2300
+F 1 "DLW21HN900SQ2L" H 7470 2020 60  0000 L BNN
+F 2 "" H 7470 2020 60  0000 C CNN
+F 3 "" H 7470 2020 60  0000 C CNN
+	1    7400 2300
+	1    0    0    -1
+$EndComp
+$Comp
+L __Template_Cap C85
+U 1 1 65BAC16F
+P 3000 2400
+F 0 "C85" H 3060 2380 60  0000 L BNN
+F 1 "4.7UF" H 3060 2280 60  0000 L BNN
+F 2 "" H 3060 2280 60  0000 C CNN
+F 3 "" H 3060 2280 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+F 5 "6.3V" V 1400 2000 60  0001 C CNN "Voltage"
+	1    3000 2400
+	1    0    0    -1
+$EndComp
+$Comp
+L DIODE_BI-DIR_TRIG IC315
+U 1 1 65BAC16E
+P 6200 3100
+	1    6200 3100
+	0    -1   -1   0
+$EndComp
+$Comp
+L DIODE_BI-DIR_TRIG IC316
+U 1 1 65BAC16D
+P 6500 3100
+F 4 "7" V 1400 2000 60  0001 C CNN "CrossRef"
+F 5 "7" V 1400 2000 60  0001 C CNN "CrossRef"
+F 6 "6" V 1400 2000 60  0001 C CNN "CrossRef"
+	1    6500 3100
+	0    -1   -1   0
+$EndComp
+$Comp
+L __Template_Cap C84
+U 1 1 65BAC16C
+P 16400 1500
+F 0 "C84" H 16460 1480 60  0000 L BNN
+F 1 "0.1uF" H 16460 1380 60  0000 L BNN
+F 2 "" H 16460 1380 60  0000 C CNN
+F 3 "" H 16460 1380 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+F 5 "25V" V 1400 2000 60  0001 C CNN "Voltage"
+F 6 "6" V 1400 2000 60  0001 C CNN "CrossRef"
+	1    16400 1500
+	1    0    0    -1
+$EndComp
+$Comp
+L TESTPAD_30MIL TP39
+U 1 1 65BAC16B
+P 15100 2600
+F 0 "TP39" H 15450 2650 60  0000 R TNN
+	1    15100 2600
+	-1   0    0    1
+$EndComp
+$Comp
+L TESTPAD_30MIL TP45
+U 1 1 65BAC16A
+P 3700 2300
+F 0 "TP45" V 3850 2350 60  0000 R TNN
+	1    3700 2300
+	0    -1   -1   0
+$EndComp
+$Comp
+L __Template_Resistor R17
+U 1 1 65BAC169
+P 12500 3900
+F 0 "R17" V 12670 3870 60  0000 R TNN
+F 1 "100K" V 12570 3870 60  0000 R TNN
+F 2 "" H 12570 3870 60  0000 C CNN
+F 3 "" H 12570 3870 60  0000 C CNN
+F 4 "0201" V 1400 2000 60  0001 C CNN "Package"
+	1    12500 3900
+	0    -1   -1   0
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,920 @@
+Archive:  db/33133.zip
+  inflating: db/33133/Coral Dev Board Micro.PrjPcb  
+  inflating: db/33133/Coral Dev Board Micro.PcbDoc  
+  inflating: db/33133/01 COVER.SchDocPreview  
+  inflating: db/33133/02 BLOCK DIAGRAM.SchDocPreview  
+  inflating: db/33133/03 MAIN POWER.SchDocPreview  
+  inflating: db/33133/03 POWER DIAGRAM.SchDocPreview  
+  inflating: db/33133/04 MAIN POWER.SchDocPreview  
+  inflating: db/33133/04 MIMXRT1170 PART1.SchDocPreview  
+  inflating: db/33133/05 MIMXRT1170 PART1.SchDocPreview  
+  inflating: db/33133/05 MIMXRT1170 PART2.SchDocPreview  
+  inflating: db/33133/06 MIMXRT1170 PART2.SchDocPreview  
+  inflating: db/33133/06 MIMXRT1170 PART3.SchDocPreview  
+  inflating: db/33133/07 B2B.SchDocPreview  
+  inflating: db/33133/07 MIMXRT1170 PART3.SchDocPreview  
+  inflating: db/33133/08 B2B.SchDocPreview  
+  inflating: db/33133/08 Parallel Camera.SchDocPreview  
+  inflating: db/33133/09 FLASH_BOOT.SchDocPreview  
+  inflating: db/33133/09 Parallel Camera.SchDocPreview  
+  inflating: db/33133/10 FLASH_BOOT.SchDocPreview  
+  inflating: db/33133/10 SDRAM.SchDocPreview  
+  inflating: db/33133/11 DMIC.SchDocPreview  
+  inflating: db/33133/11 SDRAM.SchDocPreview  
+  inflating: db/33133/12 DMIC.SchDocPreview  
+  inflating: db/33133/12 USB.SchDocPreview  
+  inflating: db/33133/13 TPU.SchDocPreview  
+  inflating: db/33133/13 USB.SchDocPreview  
+  inflating: db/33133/14 BOOT.SchDocPreview  
+  inflating: db/33133/14 TPU.SchDocPreview  
+  inflating: db/33133/15 BOOT.SchDocPreview  
+  inflating: db/33133/15 INTERFACE_JTAG.SchDocPreview  
+  inflating: db/33133/16 INTERFACE_JTAG.SchDocPreview  
+  inflating: db/33133/16 Revision History.SchDocPreview  
+  inflating: db/33133/17 Revision History.SchDocPreview  
+  inflating: db/33133/01 COVER.SchDoc  
+  inflating: db/33133/02 BLOCK DIAGRAM.SchDoc  
+  inflating: db/33133/03 POWER DIAGRAM.SchDoc  
+  inflating: db/33133/04 MAIN POWER.SchDoc  
+  inflating: db/33133/05 MIMXRT1170 PART1.SchDoc  
+  inflating: db/33133/05 POWER DOMAIN.SchDoc  
+  inflating: db/33133/06 MIMXRT1170 PART2.SchDoc  
+  inflating: db/33133/07 MIMXRT1170 PART3.SchDoc  
+  inflating: db/33133/08 B2B.SchDoc  
+  inflating: db/33133/09 Parallel Camera.SchDoc  
+  inflating: db/33133/10 FLASH_BOOT.SchDoc  
+  inflating: db/33133/11 SDRAM.SchDoc  
+  inflating: db/33133/12 DMIC.SchDoc  
+  inflating: db/33133/13 USB.SchDoc  
+  inflating: db/33133/14 TPU.SchDoc  
+  inflating: db/33133/15 BOOT.SchDoc  
+  inflating: db/33133/16 INTERFACE.SchDoc  
+  inflating: db/33133/17 Revision History.SchDoc  
+Loading 01 COVER.SchDoc
+
+Loading 02 BLOCK DIAGRAM.SchDoc
+
+Loading 03 POWER DIAGRAM.SchDoc
+
+Loading 04 MAIN POWER.SchDoc
+
+Loading 05 MIMXRT1170 PART1.SchDoc
+
+Loading 05 POWER DOMAIN.SchDoc
+
+Loading 06 MIMXRT1170 PART2.SchDoc
+
+Loading 07 MIMXRT1170 PART3.SchDoc
+
+Loading 08 B2B.SchDoc
+
+Loading 09 Parallel Camera.SchDoc
+
+Loading 10 FLASH_BOOT.SchDoc
+
+Loading 11 SDRAM.SchDoc
+
+Loading 12 DMIC.SchDoc
+
+Loading 13 USB.SchDoc
+
+Loading 14 TPU.SchDoc
+
+Loading 15 BOOT.SchDoc
+
+Loading 16 INTERFACE.SchDoc
+
+Loading 17 Revision History.SchDoc
+
+Loading Coral Dev Board Micro.PcbDoc
+
+Done.
+Handling Coral Dev Board Micro-PcbDoc/Root Entry/Board6/Data.dat
+ASCII-Coral Dev Board Micro-PcbDoc.PcbDoc exists?
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Board6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Models/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/UniqueIDPrimitiveInformation/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Rules6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Classes6/Data.dat.txt
+Writing PCB to Coral Dev Board Micro-PcbDoc.kicad_pcb
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Nets6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Components6/Data.dat.txt
+Pads6...
+Seems we should skip 0x1e0 bytes
+Seems we should skip 0x1e0 bytes
+Seems we should skip 0x1e0 bytes
+Seems we should skip 0x1e0 bytes
+Seems we should skip 0x1e0 bytes
+Seems we should skip 0x1e0 bytes
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/ComponentBodies6/Data.dat.txt
+NOT FOUND: XRCGB24M000F1H01R0.wrl
+NOT FOUND: TL4100AFxxxQG.wrl
+NOT FOUND: PTS810SJM250SMTRLFS (TAH-1QR Equivalent).wrl
+NOT FOUND: CAS-D20TA--3DModel-STEP-56544.wrl
+NOT FOUND: DRY0006A.wrl
+NOT FOUND: 74AXP1T34GMH.wrl
+NOT FOUND: SOD123 Default.wrl
+NOT FOUND: SDFN4.wrl
+NOT FOUND: 1206.wrl
+NOT FOUND: 0805.wrl
+NOT FOUND: 0603.wrl
+NOT FOUND: 0402.wrl
+NOT FOUND: QFN41P50_600X600X90L40X25T462.wrl
+NOT FOUND: 5037722410.wrl
+NOT FOUND: SPK0641HT4H_Ramis_3D_Model.wrl
+NOT FOUND: 74404041047_Download_STP_WE-LQS-4012_rev1.wrl
+NOT FOUND: DF40C-100DP.wrl
+NOT FOUND: 698B116W26A-661.wrl
+NOT FOUND: CDBQR.wrl
+NOT FOUND: VFBGA54_8X8_MRN.wrl
+NOT FOUND: BGA289CP80_17X17_1400X1400X152B43.wrl
+NOT FOUND: BGA12C50P4X3_206X202X65.wrl
+NOT FOUND: User Library-SOT-23-5.wrl
+NOT FOUND: 0201 (0603) Resistor.wrl
+NOT FOUND: SON50P100X50-8N.wrl
+NOT FOUND: QFN50P1500X1000X150-88N.wrl
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/ShapeBasedComponentBodies6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Components6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Arcs6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Vias6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Polygons6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Tracks6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/FileVersionInfo/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Fills6/Data.dat.txt
+Writing to Coral Dev Board Micro-PcbDoc/Root Entry/Regions6/Data.dat.txt
+Overflow: verts:544 ver:32 vpos:516 length:516 !
+Overflow: verts:368 ver:112 vpos:1796 length:1796 !
+Overflow: verts:827 ver:59 vpos:948 length:948 !
+Overflow: verts:362 ver:106 vpos:1700 length:1700 !
+Overflow: verts:377 ver:121 vpos:1940 length:1940 !
+Overflow: verts:660 ver:148 vpos:2372 length:2372 !
+Overflow: verts:350 ver:94 vpos:1508 length:1508 !
+Overflow: verts:664 ver:152 vpos:2436 length:2436 !
+Texts6...
+Unmapped Layers:
+"MECHANICAL16"=>"Eco1.User"
+Handling 01 COVER-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+Handling 02 BLOCK DIAGRAM-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+Unhandled Record type without: 7  (#33)
+Unhandled Record type without: 7  (#34)
+Unhandled Record type without: 7  (#46)
+Unhandled Record type without: 7  (#47)
+Unhandled Record type without: 7  (#52)
+Unhandled Record type without: 7  (#53)
+Unhandled Record type without: 7  (#55)
+Unhandled Record type without: 7  (#56)
+Unhandled Record type without: 7  (#59)
+Unhandled Record type without: 7  (#60)
+Unhandled Record type without: 7  (#66)
+Unhandled Record type without: 7  (#67)
+Unhandled Record type without: 7  (#71)
+Unhandled Record type without: 7  (#72)
+Unhandled Record type without: 7  (#76)
+Unhandled Record type without: 7  (#110)
+Unhandled Record type without: 7  (#111)
+Unhandled Record type without: 7  (#132)
+Unhandled Record type without: 7  (#135)
+Unhandled Record type without: 7  (#136)
+Handling 03 POWER DIAGRAM-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+ERROR: Valiant Block Diagram.png not found!
+Handling 04 MAIN POWER-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 05 MIMXRT1170 PART1-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 05 POWER DOMAIN-SchDoc/Root Entry/FileHeader.dat
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Handling 06 MIMXRT1170 PART2-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 07 MIMXRT1170 PART3-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+Unhandled Record type within: 34
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 08 B2B-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 09 Parallel Camera-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 10 FLASH_BOOT-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 11 SDRAM-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Handling 12 DMIC-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 13 USB-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+WARNING: Elliptical arcs are not supported in KiCad - creating circular arc using average radius instead
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+Unhandled Record type within: 34
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 14 TPU-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 15 BOOT-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+This circle/arc is not part of a component, but KiCad does not support that. As a workaround we are creating a dummy component.
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 16 INTERFACE-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+WARNING: Port orientation may be incorrect and thus unconnected - ports on the 'left' of wires may need moving and orientation flipping
+Handling 17 Revision History-SchDoc/Root Entry/FileHeader.dat
+ERROR: 20190130_Coral_logo.png not found!
+ERROR: logo_GoogleG_FullColor_192px.svg not found!
+Handling Coral Dev Board Micro-PcbDoc/Root Entry/FileHeader.dat
+Handling 01 COVER.SchDoc
+Handling 02 BLOCK DIAGRAM.SchDoc
+Handling 03 POWER DIAGRAM.SchDoc
+Handling 04 MAIN POWER.SchDoc
+Handling 05 MIMXRT1170 PART1.SchDoc
+Handling 05 POWER DOMAIN.SchDoc
+Handling 06 MIMXRT1170 PART2.SchDoc
+Handling 07 MIMXRT1170 PART3.SchDoc
+Handling 08 B2B.SchDoc
+Handling 09 Parallel Camera.SchDoc
+Handling 10 FLASH_BOOT.SchDoc
+Handling 11 SDRAM.SchDoc
+Handling 12 DMIC.SchDoc
+Handling 13 USB.SchDoc
+Handling 14 TPU.SchDoc
+Handling 15 BOOT.SchDoc
+Handling 16 INTERFACE.SchDoc
+Handling 17 Revision History.SchDoc
