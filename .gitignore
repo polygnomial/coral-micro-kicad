@@ -16,6 +16,7 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+**/*.lck
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -220,7 +221,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

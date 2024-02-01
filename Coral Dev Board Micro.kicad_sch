@@ -389,7 +389,7 @@
     (property "Sheetname" "Revision History" (at 226.06 349.8084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "17 Revision History-SchDoc.kicad_sch" (at 226.06 361.2646 0)
+    (property "Sheetfile" "schematics/17 Revision History-SchDoc.kicad_sch" (at 226.06 361.2646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -406,7 +406,7 @@
     (property "Sheetname" "Interface & JTAG" (at 91.44 332.0284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "16 INTERFACE-SchDoc.kicad_sch" (at 91.44 351.1046 0)
+    (property "Sheetfile" "schematics/16 INTERFACE-SchDoc.kicad_sch" (at 91.44 351.1046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -423,7 +423,7 @@
     (property "Sheetname" "SDRAM" (at 236.22 212.6484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "11 SDRAM-SchDoc.kicad_sch" (at 236.22 234.2646 0)
+    (property "Sheetfile" "schematics/11 SDRAM-SchDoc.kicad_sch" (at 236.22 234.2646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -440,7 +440,7 @@
     (property "Sheetname" "USB" (at 215.9 260.9084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "13 USB-SchDoc.kicad_sch" (at 215.9 274.9046 0)
+    (property "Sheetfile" "schematics/13 USB-SchDoc.kicad_sch" (at 215.9 274.9046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -457,7 +457,7 @@
     (property "Sheetname" "DMIC" (at 271.78 245.6684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "12 DMIC-SchDoc.kicad_sch" (at 271.78 257.1246 0)
+    (property "Sheetfile" "schematics/12 DMIC-SchDoc.kicad_sch" (at 271.78 257.1246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -474,7 +474,7 @@
     (property "Sheetname" "Boot" (at 144.78 309.1684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "15 BOOT-SchDoc.kicad_sch" (at 144.78 328.2446 0)
+    (property "Sheetfile" "schematics/15 BOOT-SchDoc.kicad_sch" (at 144.78 328.2446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -491,7 +491,7 @@
     (property "Sheetname" "Power Domain" (at 393.7 126.2884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "05 POWER DOMAIN-SchDoc.kicad_sch" (at 393.7 163.1446 0)
+    (property "Sheetfile" "schematics/05 POWER DOMAIN-SchDoc.kicad_sch" (at 393.7 163.1446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -508,7 +508,7 @@
     (property "Sheetname" "TPU" (at 111.76 268.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "14 TPU-SchDoc.kicad_sch" (at 111.76 285.0646 0)
+    (property "Sheetfile" "schematics/14 TPU-SchDoc.kicad_sch" (at 111.76 285.0646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -525,7 +525,7 @@
     (property "Sheetname" "Power Diagram" (at 241.3 75.4884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "03 POWER DIAGRAM-SchDoc.kicad_sch" (at 241.3 86.9446 0)
+    (property "Sheetfile" "schematics/03 POWER DIAGRAM-SchDoc.kicad_sch" (at 241.3 86.9446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -542,7 +542,7 @@
     (property "Sheetname" "Block Diagram" (at 231.14 57.7084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "02 BLOCK DIAGRAM-SchDoc.kicad_sch" (at 231.14 69.1646 0)
+    (property "Sheetfile" "schematics/02 BLOCK DIAGRAM-SchDoc.kicad_sch" (at 231.14 69.1646 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
@@ -559,7 +559,7 @@
     (property "Sheetname" "RT1170 Part 2" (at 259.08 141.5284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "06 MIMXRT1170 PART2-SchDoc.kicad_sch" (at 259.08 152.9846 0)
+    (property "Sheetfile" "schematics/06 MIMXRT1170 PART2-SchDoc.kicad_sch" (at 259.08 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -576,7 +576,7 @@
     (property "Sheetname" "RT1170 Part 3" (at 241.3 166.9284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "07 MIMXRT1170 PART3-SchDoc.kicad_sch" (at 241.3 180.9246 0)
+    (property "Sheetfile" "schematics/07 MIMXRT1170 PART3-SchDoc.kicad_sch" (at 241.3 180.9246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -593,7 +593,7 @@
     (property "Sheetname" "B2B" (at 317.5 184.7084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "08 B2B-SchDoc.kicad_sch" (at 317.5 203.7846 0)
+    (property "Sheetfile" "schematics/08 B2B-SchDoc.kicad_sch" (at 317.5 203.7846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -610,7 +610,7 @@
     (property "Sheetname" "Main Power" (at 228.6 93.2684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "04 MAIN POWER-SchDoc.kicad_sch" (at 228.6 104.7246 0)
+    (property "Sheetfile" "schematics/04 MAIN POWER-SchDoc.kicad_sch" (at 228.6 104.7246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -627,7 +627,7 @@
     (property "Sheetname" "Parallel Camera" (at 289.56 217.7284 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "09 Parallel Camera-SchDoc.kicad_sch" (at 289.56 224.1046 0)
+    (property "Sheetfile" "schematics/09 Parallel Camera-SchDoc.kicad_sch" (at 289.56 224.1046 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
@@ -644,7 +644,7 @@
     (property "Sheetname" "RT1170 Part 1" (at 271.78 111.0484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "05 MIMXRT1170 PART1-SchDoc.kicad_sch" (at 271.78 125.0446 0)
+    (property "Sheetfile" "schematics/05 MIMXRT1170 PART1-SchDoc.kicad_sch" (at 271.78 125.0446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
