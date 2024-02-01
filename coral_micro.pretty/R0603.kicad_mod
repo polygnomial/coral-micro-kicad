@@ -1,0 +1,19 @@
+(footprint "R0603" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 4bfaa527-5c0c-419a-9ab6-bced978d8433)
+  )
+  (fp_text value "" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 78d1ea7f-17c8-4e26-9031-79e5a7c2a228)
+  )
+  (pad "1" smd rect (at 0 -0.725 180) (size 0.9 0.65) (layers "F.Cu") (tstamp 527c640c-8c16-4a49-8ace-cdbca355dd84))
+  (pad "2" smd rect (at 0 0.725 180) (size 0.9 0.65) (layers "F.Cu") (tstamp c6803d6d-6c0b-4fba-ae6c-9a86ab9670ee))
+  (model "./wrlshp/934FA611-1EE2.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

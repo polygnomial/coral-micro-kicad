@@ -1,0 +1,21 @@
+(footprint "SWITCH_TAH1QR" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp f2dae97a-8d3e-4be2-b2ad-71fba17164e5)
+  )
+  (fp_text value "SW, TACT, SPST, 0.05A, 16VDC, OVAL ACTUATOR, SMD" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp bc08b647-f25d-4c66-aa18-72ef5cdfe5cc)
+  )
+  (pad "1" smd rect (at -2.075 -1.075) (size 1.05 0.65) (layers "F.Cu") (tstamp f1233655-9853-4547-b7b9-9b9c409773f6))
+  (pad "2" smd rect (at 2.075 -1.075) (size 1.05 0.65) (layers "F.Cu") (tstamp 6eeeb956-6987-4d58-b295-4793459a35c1))
+  (pad "3" smd rect (at -2.075 1.075) (size 1.05 0.65) (layers "F.Cu") (tstamp b19c50d3-bb85-46ba-a21a-490a539d1d46))
+  (pad "4" smd rect (at 2.075 1.075) (size 1.05 0.65) (layers "F.Cu") (tstamp a5d86259-082a-4b36-9ead-7a2f764d5915))
+  (model "./wrlshp/F36953EF-E184.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

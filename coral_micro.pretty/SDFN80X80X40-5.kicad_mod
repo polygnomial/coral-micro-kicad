@@ -1,0 +1,22 @@
+(footprint "SDFN80X80X40-5" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp cdeb48a9-f7fe-4acf-aa61-f4297bc4d589)
+  )
+  (fp_text value "IC, REG, TCR2LN33, LINEAR, LDO, 5.5V VIN, 3.3V VOUT, CMOS O/P, SDFN-4" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 8b5a98f9-b54b-4176-a923-9b1db0740803)
+  )
+  (pad "1" smd rect (at 0.4 0.24 270) (size 0.12 0.12) (layers "F.Cu") (tstamp 6cfb45aa-9191-4049-9c1a-1256d7081ec5))
+  (pad "2" smd rect (at 0.38 -0.24 270) (size 0.12 0.12) (layers "F.Cu") (tstamp b800e7d4-0c6b-4c73-b21b-3665f0e6ca68))
+  (pad "3" smd rect (at -0.39 -0.23) (size 0.12 0.12) (layers "F.Cu") (tstamp f8aa9aea-164b-49a4-93b3-338402bafd1a))
+  (pad "4" smd rect (at -0.38 0.24 90) (size 0.12 0.12) (layers "F.Cu") (tstamp c8e9d42f-a2a5-4a4d-ab80-82d56e26f935))
+  (pad "5" smd rect (at 0 0 315) (size 0.25 0.25) (layers "F.Cu") (tstamp c4491b90-ee37-45d5-a422-ad99a4005a73))
+  (model "./wrlshp/4EB8C0B7-DF4C.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

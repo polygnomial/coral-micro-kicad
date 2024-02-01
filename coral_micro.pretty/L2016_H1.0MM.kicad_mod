@@ -1,0 +1,19 @@
+(footprint "L2016_H1.0MM" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 2100b115-8678-4b87-a64d-1d1d8d109e32)
+  )
+  (fp_text value "IND, PWR, FILM, 1uH, 20%, 3.9A Isat, 3.1A Idc, 0.056 DCR, 2016m, 1.00mm" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 7e4f0fad-06fc-43f5-9b91-faa5c892e42a)
+  )
+  (pad "1" smd rect (at -0.9 0) (size 0.6 1.6) (layers "F.Cu") (tstamp 47a639b4-dba6-4c42-a0e5-b67fd6f02eb7))
+  (pad "2" smd rect (at 0.9 0) (size 0.6 1.6) (layers "F.Cu") (tstamp c835cd22-9750-4f41-872c-570d2ce9444f))
+  (model "./wrlshp/32A59EFB-2108.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

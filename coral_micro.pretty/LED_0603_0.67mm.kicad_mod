@@ -1,0 +1,19 @@
+(footprint "LED_0603_0.67mm" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 2842e277-d370-40cd-ac64-529106ce5b3b)
+  )
+  (fp_text value "LED, GREEN, 570nm, 25mA, DIFFUSED, 0603" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 6ab9aeab-4bf4-49bd-b419-34cf7d84c984)
+  )
+  (pad "A" smd rect (at 0 -0.75 90) (size 0.8 0.8) (layers "F.Cu") (tstamp 70438c4b-cd09-4c9e-8346-f16a260406cf))
+  (pad "K" smd rect (at 0 0.75 90) (size 0.8 0.8) (layers "F.Cu") (tstamp 772ffbcc-60a7-483f-8ea2-74c5c777fe86))
+  (model "./wrlshp/9E0CDB35-5AC4.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

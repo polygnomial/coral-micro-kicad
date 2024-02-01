@@ -1,0 +1,19 @@
+(footprint "LED_0603P_WHITE" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 06650814-3769-4b79-ae8a-bf6359ffc958)
+  )
+  (fp_text value "LED, WHITE, 0603, SMD" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 419abe64-e0b8-40a0-8794-6843039b95e3)
+  )
+  (pad "1" smd rect (at 0 0.7 180) (size 0.85 0.8) (layers "F.Cu") (tstamp 742d2cfb-f91c-42ea-8b89-1df36d74dc75))
+  (pad "2" smd rect (at 0 -0.7 180) (size 0.85 0.8) (layers "F.Cu") (tstamp 70ec0fe7-d779-4cac-a906-987d655f671e))
+  (model "./wrlshp/5A63F6E1-AB37.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

@@ -1,0 +1,19 @@
+(footprint "0201" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 97139d17-cfc5-430c-a6a4-5ac5260eb997)
+  )
+  (fp_text value "DIODE TVS 15kV 10V 50A 8pF SMT RoHS" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp a9d1e0eb-db00-446a-9486-62767b050a53)
+  )
+  (pad "1" smd rect (at 0 0.274 270) (size 0.28 0.37) (layers "F.Cu") (tstamp 7f61e0dd-770d-4889-b9ab-3219ff9d06dc))
+  (pad "2" smd rect (at 0 -0.274 270) (size 0.28 0.37) (layers "F.Cu") (tstamp 676ac8bf-de10-43f7-b2e3-df2ddb744735))
+  (model "./wrlshp/4B3820BA-BC49.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

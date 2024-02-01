@@ -1,0 +1,22 @@
+(footprint "TDFN120X160X60-4-TP" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp c0914597-8030-4716-9e25-251b8c134e87)
+  )
+  (fp_text value "IC, SW, SIP32408, HIGH-SIDE, N-CH, 1:1, 1.1V TO 5.5V VCL, 3.5A, 44mOHM RDS(ON), TDFN-4" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp b0977140-93a8-405a-a4a3-32ae5ac5becd)
+  )
+  (pad "1" smd rect (at -0.25 0.725 270) (size 0.55 0.3) (layers "F.Cu") (tstamp b5a4ebe4-87ae-4870-8079-f43fc0dd6fbb))
+  (pad "2" smd rect (at 0.25 0.725 270) (size 0.55 0.3) (layers "F.Cu") (tstamp 674234a0-3e45-4b46-a12d-7f8781c67c7c))
+  (pad "3" smd rect (at 0.25 -0.725 270) (size 0.55 0.3) (layers "F.Cu") (tstamp 2ab992c5-9afa-4e02-af9c-ed79098ff7b5))
+  (pad "4" smd rect (at -0.25 -0.725 270) (size 0.55 0.3) (layers "F.Cu") (tstamp 2727499c-c1cf-41bb-9f74-40aee068b615))
+  (pad "5" smd rect (at 0.00008 0.00008 270) (size 0.5 0.86) (layers "F.Cu") (tstamp 41633da8-f6cf-46b0-bda7-be37c9414af4))
+  (model "./wrlshp/7183E8FF-740C.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

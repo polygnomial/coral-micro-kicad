@@ -1,0 +1,13 @@
+(footprint "TESTPAD_SMT_25MIL" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 9e1deb54-7a24-4b69-b86c-d758be8e455b)
+  )
+  (fp_text value "TESTPAD_SMT_25MIL" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp bc76a949-cd35-4e6c-a264-94ec727900b8)
+  )
+  (pad "1" smd circle (at 0 0 270) (size 0.635 0.635) (layers "F.Cu") (tstamp 48f91cc6-1e7a-4708-988a-567c5eff581d))
+)

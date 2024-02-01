@@ -1,0 +1,19 @@
+(footprint "XTAL_EPSON_ADUCM355BCCZ" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp fedaeca0-33a9-41da-a3f6-3f49e1086977)
+  )
+  (fp_text value "" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 7c964144-7bd3-421c-864c-5e0441fb8fe0)
+  )
+  (pad "1" smd rect (at -1.25 0) (size 1 1.8) (layers "F.Cu") (tstamp e8cafe74-149b-407a-bb2c-cf5d42da04ee))
+  (pad "2" smd rect (at 1.25 0) (size 1 1.8) (layers "F.Cu") (tstamp 3083155a-5462-4596-9ae3-8034fa353898))
+  (model "./wrlshp/89EEFDD7-3895.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

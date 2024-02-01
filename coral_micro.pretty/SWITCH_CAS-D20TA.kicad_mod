@@ -1,0 +1,23 @@
+(footprint "SWITCH_CAS-D20TA" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp a5e832ae-ec3e-408e-98e1-91fd01386eef)
+  )
+  (fp_text value "SW, SLIDE, SPDTx2, 100mA, 6VDC, 2-POS, ON-ON, GOLD, SMT" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 43e111fa-61bf-49bb-890c-8fc1993baa41)
+  )
+  (pad "1" smd rect (at 1.85 1.75) (size 1.6 1) (layers "F.Cu") (tstamp ce89a627-8067-432e-ad5f-2595a723a782))
+  (pad "2" smd rect (at 1.85 0) (size 1.6 1) (layers "F.Cu") (tstamp f9f15dbf-5346-4440-8f73-78b7035e452c))
+  (pad "3" smd rect (at 1.85 -1.75) (size 1.6 1) (layers "F.Cu") (tstamp 92f226fe-62f2-4862-ba80-38e036cdd0c7))
+  (pad "4" smd rect (at -1.85 1.75) (size 1.6 1) (layers "F.Cu") (tstamp 77dc48c9-6829-4248-942d-864d3b9c0a94))
+  (pad "5" smd rect (at -1.85 0) (size 1.6 1) (layers "F.Cu") (tstamp c20d853d-6c19-40e7-b3ef-b01b06f85564))
+  (pad "6" smd rect (at -1.85 -1.75) (size 1.6 1) (layers "F.Cu") (tstamp 6cb420cb-9bff-4149-92ac-50e44fb31699))
+  (model "./wrlshp/62D63D97-2D68.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

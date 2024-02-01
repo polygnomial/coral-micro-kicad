@@ -1,0 +1,23 @@
+(footprint "SON50P145X100X50-6" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 03f48378-1455-466c-8244-40ee13f2a8d2)
+  )
+  (fp_text value "IC, TRANSLATOR, 74AXP1, UNIDIR, 1-CH, NON-INVERTED O/P, LOW NOISE OVERSHOOT, XSON-6" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp df30ed22-0c2e-42c6-bba7-7bd89e29526b)
+  )
+  (pad "1" smd roundrect (at -0.275 -0.5 180) (size 0.35 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 5de596b0-6a79-4037-ac12-1975d5935026))
+  (pad "2" smd roundrect (at -0.3 0 180) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 97556209-c6b3-4e87-8d5f-c40212cf9401))
+  (pad "3" smd roundrect (at -0.3 0.5 180) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp e1075a76-c115-4427-aabe-ed4f9f9cff5e))
+  (pad "4" smd roundrect (at 0.3 0.5) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp e1c67256-23d1-411b-a9db-a8b4b668772a))
+  (pad "5" smd roundrect (at 0.3 0) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 1a6c4d3f-8356-4412-9809-d116b9f8bb5b))
+  (pad "6" smd roundrect (at 0.3 -0.5) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 554137f9-cd98-416b-999a-7da27808b340))
+  (model "./wrlshp/35395807-0482.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

@@ -1,0 +1,20 @@
+(footprint "3XDFN" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 108a9a93-476e-4446-9bb0-249187f9e0d6)
+  )
+  (fp_text value "MOSFET, N-CH, 30V, 0.55A, DMN3900" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 0eb8ecd6-e772-480e-b522-a1be24b7c15b)
+  )
+  (pad "1" smd rect (at -0.325 -0.175 270) (size 0.1905 0.35) (layers "F.Cu") (tstamp 948579fb-4be0-4735-b836-7b3d9492394f))
+  (pad "2" smd rect (at -0.325 0.175 270) (size 0.1905 0.35) (layers "F.Cu") (tstamp ab5ee14b-27ba-419a-984c-cd124856670c))
+  (pad "3" smd rect (at 0.325 0 180) (size 0.35 0.6) (layers "F.Cu") (tstamp 9989d2e5-14d1-442f-b3a1-30f8d5679e39))
+  (model "./wrlshp/20A69B08-CA63.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

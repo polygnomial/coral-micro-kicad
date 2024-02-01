@@ -1,0 +1,22 @@
+(footprint "5SOT23_REG" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp eb1b2e9f-919c-4e78-ae19-1369be2a3cbf)
+  )
+  (fp_text value "IC, REG, NCP170AS, LINEAR, FIXED, 2.2V TO 5.5V VIN, 1.8V VOUT, 150mA, TSOP-5" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp c1285178-67be-410a-a1ff-28e6e73c4c88)
+  )
+  (pad "1" smd rect (at 1.2 0.95 270) (size 0.6 1.1) (layers "F.Cu") (tstamp f3aebcbb-fa00-4007-a776-152499ec140b))
+  (pad "2" smd oval (at 1.2 0 270) (size 0.6 1.1) (layers "F.Cu") (tstamp a4c5db14-1f13-48b7-8649-fa923abcd1cd))
+  (pad "3" smd oval (at 1.2 -0.95 270) (size 0.6 1.1) (layers "F.Cu") (tstamp 3a0f1005-5d19-4c38-b656-824f86ee1867))
+  (pad "4" smd oval (at -1.2 -0.95 270) (size 0.6 1.1) (layers "F.Cu") (tstamp 7872e47c-fc37-426d-851a-6a4587b3ae3d))
+  (pad "5" smd oval (at -1.2 0.95 270) (size 0.6 1.1) (layers "F.Cu") (tstamp aec7cc38-c2f9-414e-bde3-35ba37cc2556))
+  (model "./wrlshp/509B2C49-FE99.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

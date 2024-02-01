@@ -1,0 +1,23 @@
+(footprint "SON50P145X100X60-6" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp b5e690ad-e587-45b2-912a-cdff58f9caba)
+  )
+  (fp_text value "IC, BUFFER, 74LVC1G126, NON-INVERT, SINGLE ELEMENT, 3-STATE O/P, 32mA, 1.65V TO 5.5V VIN, UFDFN-6" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 870ae179-8839-46a4-97f7-346d9f7c9fd8)
+  )
+  (pad "1" smd roundrect (at -0.5 0.275 90) (size 0.35 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 238783fb-2bd1-4d68-b04d-6bc244e2e835))
+  (pad "2" smd roundrect (at 0 0.3 90) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp a2034153-b5fe-4270-a2d7-2bc9163215bd))
+  (pad "3" smd roundrect (at 0.5 0.3 90) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 288b086e-6f98-4cea-a683-5727da89fe04))
+  (pad "4" smd roundrect (at 0.5 -0.3 270) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 998e899c-2acd-44f1-83eb-0e5eeb3f6289))
+  (pad "5" smd roundrect (at 0 -0.3 270) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 95df13f9-3fd2-4141-8763-001e5f3d9433))
+  (pad "6" smd roundrect (at -0.5 -0.3 270) (size 0.3 0.2) (layers "F.Cu") (roundrect_rratio 0.25) (tstamp 6a2d8ddb-c1d4-4b60-98f7-85dd12138a46))
+  (model "./wrlshp/E5DEFCAA-B6B0.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)

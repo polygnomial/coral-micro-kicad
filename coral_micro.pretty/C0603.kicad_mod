@@ -1,0 +1,19 @@
+(footprint "C0603" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp e3d2322b-19ac-4a09-8c4e-c073c5db93ef)
+  )
+  (fp_text value "CAP, CER, X5R, 22uF, 20%, 10V, 0603" (at 0 0) (layer "B.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)) (justify mirror))
+    (tstamp 292866df-fa33-4033-893b-64a8c1619c33)
+  )
+  (pad "1" smd rect (at -0.8 0 270) (size 1 0.95) (layers "F.Cu") (tstamp 9628f149-1f53-49cc-bfef-3d434fd0df21))
+  (pad "2" smd rect (at 0.8 0 270) (size 1 0.95) (layers "F.Cu") (tstamp d7733e5a-d53e-49fa-8b58-bc4eaded107e))
+  (model "./wrlshp/8302C4EB-FB96.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

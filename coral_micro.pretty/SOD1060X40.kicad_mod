@@ -1,0 +1,19 @@
+(footprint "SOD1060X40" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp bcb37a11-2f5e-4c1d-b81a-a2411835bc10)
+  )
+  (fp_text value "TVS, DIODE, UNIDIR, 3.3VRWM, 4.8VBR, 7.8VCL, SOD-923" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 3bc7e330-0e9f-4637-b2b8-608eae6b453c)
+  )
+  (pad "A" smd rect (at 0.42 0) (size 0.36 0.25) (layers "F.Cu") (tstamp e1547390-f67f-46ec-8630-17861cb64a41))
+  (pad "K" smd rect (at -0.42 0) (size 0.36 0.25) (layers "F.Cu") (tstamp 2588fa32-a6ab-47b6-abb2-5c48986737e9))
+  (model "./wrlshp/F0123DED-FF46.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

@@ -1,0 +1,21 @@
+(footprint "SWITCH_TL4100AF120QG" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp 8b1a27f5-c228-4170-bd93-8cb52ac9914c)
+  )
+  (fp_text value "SW, TACT, SPST-NO, OFF-MOM, 0.05A, 12VDC, RA, EDGE MOUNT" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 1.524 1.524) (thickness 0.05)))
+    (tstamp f489b4c5-7332-4d1a-a177-3930f0d987e7)
+  )
+  (pad "1" smd rect (at 2.275 0.825 180) (size 1.45 1.1) (layers "F.Cu") (tstamp a7ae1cb5-c139-412d-9372-4faea7f99477))
+  (pad "2" smd rect (at -2.275 0.825 180) (size 1.45 1.1) (layers "F.Cu") (tstamp 9bd6021b-cadc-42be-a9f8-34c37cc43cef))
+  (pad "SH" smd rect (at -3.2 -0.825 180) (size 0.6 0.8) (layers "F.Cu") (tstamp b117ce26-97f5-4cd0-a66b-7b9fbffa714f))
+  (pad "SH" smd rect (at 3.2 -0.825 180) (size 0.6 0.8) (layers "F.Cu") (tstamp f29868e8-5062-4e7c-ae66-9bf666a1b91b))
+  (model "./wrlshp/316541C7-5582.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
